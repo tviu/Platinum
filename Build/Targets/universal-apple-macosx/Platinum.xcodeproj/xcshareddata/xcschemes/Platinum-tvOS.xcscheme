@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E44E2B231AE761220092347B"
-               BuildableName = "Platinum.framework"
-               BlueprintName = "Platinum-Mac"
+               BlueprintIdentifier = "4E4B4F061C1980DC00255C93"
+               BuildableName = "Platinum-tvOS.framework"
+               BlueprintName = "Platinum-tvOS"
                ReferencedContainer = "container:Platinum.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E44E2B231AE761220092347B"
-            BuildableName = "Platinum.framework"
-            BlueprintName = "Platinum-Mac"
+            BlueprintIdentifier = "4E4B4F061C1980DC00255C93"
+            BuildableName = "Platinum-tvOS.framework"
+            BlueprintName = "Platinum-tvOS"
             ReferencedContainer = "container:Platinum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E44E2B231AE761220092347B"
-            BuildableName = "Platinum.framework"
-            BlueprintName = "Platinum-Mac"
+            BlueprintIdentifier = "4E4B4F061C1980DC00255C93"
+            BuildableName = "Platinum-tvOS.framework"
+            BlueprintName = "Platinum-tvOS"
             ReferencedContainer = "container:Platinum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
