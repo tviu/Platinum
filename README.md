@@ -11,7 +11,7 @@ Unless you intend to use Neptune independently from Platinum, it is recommended 
 ## Windows:
 Open the Visual Studio 2010 solution located @ Build\Targets\x86-microsoft-win32-vs2010\Platinum.sln
 
-## Mac, iOS:
+## Mac, iOS & tvOS:
 First install carthage (https://github.com/Carthage/Carthage)
 ```
 > brew update || brew install carthage
