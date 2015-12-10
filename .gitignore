@@ -7,3 +7,5 @@ xcuserdata
 .scons*
 */**/.DS_Store
 DerivedData/
+
+Platinum.framework.zip
