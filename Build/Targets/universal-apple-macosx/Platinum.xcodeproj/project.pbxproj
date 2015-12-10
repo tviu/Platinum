@@ -685,7 +685,6 @@
 /* Begin PBXFileReference section */
 		4E450BD41C19ED0400D6FF4B /* Neptune.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Neptune.framework; path = ../../../Carthage/Build/tvOS/Neptune.framework; sourceTree = "<group>"; };
 		4E4B4F731C1980DC00255C93 /* Platinum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Platinum.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E4B4F741C1980DC00255C93 /* Platinum-iOS copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Platinum-iOS copy-Info.plist"; path = "/Users/clozano/Github/Misc/Platinum/Build/Targets/universal-apple-macosx/Platinum-iOS copy-Info.plist"; sourceTree = "<absolute>"; };
 		E402C7541297CECB00565B76 /* ContentDirectorySCPD.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ContentDirectorySCPD.cpp; sourceTree = "<group>"; };
 		E40616C01ADE5C9A008BDAEB /* Neptune.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Neptune.framework; path = ../../../Carthage/Build/iOS/Neptune.framework; sourceTree = "<group>"; };
 		E40C699E11E6ED710024CAD4 /* PltFrameBuffer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PltFrameBuffer.cpp; sourceTree = "<group>"; };
@@ -1008,7 +1007,6 @@
 				E41016221ACFA826000E994F /* Platinum */,
 				E4294C5F14319C9400B6FDED /* Frameworks */,
 				1AB674ADFE9D54B511CA2CBB /* Products */,
-				4E4B4F741C1980DC00255C93 /* Platinum-iOS copy-Info.plist */,
 			);
 			name = Platinum;
 			sourceTree = "<group>";
@@ -2588,7 +2586,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../../../Carthage/Build/tvOS/Neptune.framework/Headers",
 				);
-				INFOPLIST_FILE = "Platinum-iOS copy-Info.plist";
+				INFOPLIST_FILE = Platinum/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -2647,7 +2645,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../../../Carthage/Build/tvOS/Neptune.framework/Headers",
 				);
-				INFOPLIST_FILE = "Platinum-iOS copy-Info.plist";
+				INFOPLIST_FILE = Platinum/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

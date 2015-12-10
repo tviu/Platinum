@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4E4B4F061C1980DC00255C93"
-               BuildableName = "Platinum-tvOS.framework"
+               BuildableName = "Platinum.framework"
                BlueprintName = "Platinum-tvOS"
                ReferencedContainer = "container:Platinum.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4E4B4F061C1980DC00255C93"
-            BuildableName = "Platinum-tvOS.framework"
+            BuildableName = "Platinum.framework"
             BlueprintName = "Platinum-tvOS"
             ReferencedContainer = "container:Platinum.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4E4B4F061C1980DC00255C93"
-            BuildableName = "Platinum-tvOS.framework"
+            BuildableName = "Platinum.framework"
             BlueprintName = "Platinum-tvOS"
             ReferencedContainer = "container:Platinum.xcodeproj">
          </BuildableReference>
